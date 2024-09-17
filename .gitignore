@@ -1,0 +1,19 @@
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Dependency directories
+node_modules/
+wiki/
+
+# Config files
+src/config/config.js
+
+# Youtube data
+utils/youtube/videoData.json
+
+# Others
+.directory
